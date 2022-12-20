@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FractionLib</name>
+    </assembly>
+    <members>
+        <member name="T:FractionLib.Fraction">
+            <summary>
+            The class Fraction, meant to represent a fraction as in math.
+            </summary>
+        </member>
+        <member name="P:FractionLib.Fraction.Numerator">
+            <summary>
+            The numerator of the fraction
+            </summary>
+        </member>
+        <member name="P:FractionLib.Fraction.Denominator">
+            <summary>
+            The denominator of the fraction
+            </summary>
+        </member>
+        <member name="M:FractionLib.Fraction.#ctor">
+            <summary>
+            The default no parameter constructor
+            </summary>
+        </member>
+        <member name="M:FractionLib.Fraction.#ctor(System.Int32,System.Int32)">
+            <summary>
+            The two parameter constructor with numerator and denominator
+            </summary>
+            <param name="num">The numerator</param>
+            <param name="den">The denominator</param>
+        </member>
+        <member name="M:FractionLib.Fraction.Normalize">
+            <summary>
+            Divides the numerator and denominator with their GCD to
+            get smaller version of the fraction.
+            </summary>
+        </member>
+        <member name="M:FractionLib.Fraction.Value">
+            <summary>
+            Gives the equivalent decimal value of the fraction.
+            </summary>
+            <returns>The equivalent decimal value</returns>
+        </member>
+        <member name="M:FractionLib.Fraction.About">
+            <summary>
+            Method to honor the creator of this library.
+            </summary>
+            <returns>The About string</returns>
+        </member>
+        <member name="M:FractionLib.Fraction.ToString">
+            <summary>
+            Gives the string equivalent of the fraction for printing purposes.
+            </summary>
+            <returns>The string equivalent of the fraction</returns>
+        </member>
+    </members>
+</doc>

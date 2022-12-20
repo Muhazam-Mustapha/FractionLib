@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\FractionLib\FractionLib\FractionLib\bin\Debug\FractionLib.dll
+C:\Users\ASUS\Desktop\FractionLib\FractionLib\FractionLib\bin\Debug\FractionLib.pdb
+C:\Users\ASUS\Desktop\FractionLib\FractionLib\FractionLib\obj\Debug\FractionLib.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\FractionLib\FractionLib\FractionLib\obj\Debug\FractionLib.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\FractionLib\FractionLib\FractionLib\obj\Debug\FractionLib.dll
+C:\Users\ASUS\Desktop\FractionLib\FractionLib\FractionLib\obj\Debug\FractionLib.pdb
+C:\Users\ASUS\Desktop\FractionLib\FractionLib\FractionLib\bin\Debug\FractionLib.xml

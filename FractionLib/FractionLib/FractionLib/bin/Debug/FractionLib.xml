@@ -55,5 +55,13 @@
             </summary>
             <returns>The string equivalent of the fraction</returns>
         </member>
+        <member name="M:FractionLib.Fraction.op_Addition(FractionLib.Fraction,FractionLib.Fraction)">
+            <summary>
+            Addition of two fractions
+            </summary>
+            <param name="op1">Operand 1</param>
+            <param name="op2">Operand 2</param>
+            <returns>The added fraction</returns>
+        </member>
     </members>
 </doc>

@@ -25,5 +25,39 @@ namespace FractionLib
 
             return tempFrac;
         }
+
+        public static Fraction operator-(Fraction op1, Fraction op2)
+        {
+            Fraction tempFrac = new Fraction();
+
+            tempFrac.Numerator = op1.Numerator * op2.Denominator -
+                                 op2.Numerator * op1.Denominator;
+
+            tempFrac.Denominator = op1.Denominator * op2.Denominator;
+
+            return tempFrac;
+        }
+
+        public static Fraction operator*(Fraction op1, Fraction op2)
+        {
+            Fraction tempFrac = new Fraction();
+
+            tempFrac.Numerator = op1.Numerator * op2.Numerator;
+
+            tempFrac.Denominator = op1.Denominator * op2.Denominator;
+
+            return tempFrac;
+        }
+
+        public static Fraction operator/(Fraction op1, Fraction op2)
+        {
+            Fraction tempFrac = new Fraction();
+
+            tempFrac.Numerator = op1.Numerator * op2.Denominator;
+
+            tempFrac.Denominator = op1.Denominator * op2.Numerator;
+
+            return tempFrac;
+        }
     }
 }

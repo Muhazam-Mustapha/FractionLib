@@ -12,3 +12,10 @@ C:\Users\ASUS\Desktop\FractionLib\FractionLib\FractionLib\FractionLib\obj\Debug\
 C:\Users\ASUS\Desktop\FractionLib\FractionLib\FractionLib\FractionLib\obj\Debug\FractionLib.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\Desktop\FractionLib\FractionLib\FractionLib\FractionLib\obj\Debug\FractionLib.dll
 C:\Users\ASUS\Desktop\FractionLib\FractionLib\FractionLib\FractionLib\obj\Debug\FractionLib.pdb
+C:\Users\PSCAD\Desktop\FractionLib\FractionLib\FractionLib\FractionLib\bin\Debug\FractionLib.xml
+C:\Users\PSCAD\Desktop\FractionLib\FractionLib\FractionLib\FractionLib\bin\Debug\FractionLib.dll
+C:\Users\PSCAD\Desktop\FractionLib\FractionLib\FractionLib\FractionLib\bin\Debug\FractionLib.pdb
+C:\Users\PSCAD\Desktop\FractionLib\FractionLib\FractionLib\FractionLib\obj\Debug\FractionLib.csproj.AssemblyReference.cache
+C:\Users\PSCAD\Desktop\FractionLib\FractionLib\FractionLib\FractionLib\obj\Debug\FractionLib.csproj.CoreCompileInputs.cache
+C:\Users\PSCAD\Desktop\FractionLib\FractionLib\FractionLib\FractionLib\obj\Debug\FractionLib.dll
+C:\Users\PSCAD\Desktop\FractionLib\FractionLib\FractionLib\FractionLib\obj\Debug\FractionLib.pdb

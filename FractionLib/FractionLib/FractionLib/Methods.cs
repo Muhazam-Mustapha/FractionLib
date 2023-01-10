@@ -57,7 +57,7 @@ namespace FractionLib
         /// Gives the string equivalent of the fraction for printing purposes.
         /// </summary>
         /// <returns>The string equivalent of the fraction</returns>
-        public string ToString()
+        public override string ToString()
         {
             return _numerator.ToString()+"/"+_denominator.ToString();
         }

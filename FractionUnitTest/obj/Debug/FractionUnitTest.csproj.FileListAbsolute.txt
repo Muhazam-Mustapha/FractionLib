@@ -33,4 +33,3 @@ C:\Users\PSCAD\Desktop\FractionLib\FractionUnitTest\obj\Debug\FractionUnitTest.c
 C:\Users\PSCAD\Desktop\FractionLib\FractionUnitTest\obj\Debug\FractionUnitTest.csproj.CopyComplete
 C:\Users\PSCAD\Desktop\FractionLib\FractionUnitTest\obj\Debug\FractionUnitTest.dll
 C:\Users\PSCAD\Desktop\FractionLib\FractionUnitTest\obj\Debug\FractionUnitTest.pdb
-C:\Users\PSCAD\Desktop\FractionLib\FractionUnitTest\bin\Debug\FractionLib.xml

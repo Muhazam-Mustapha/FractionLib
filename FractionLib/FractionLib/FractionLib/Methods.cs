@@ -10,8 +10,8 @@ namespace FractionLib
     {
         private int GCD()
         {
-            int a = _numerator;
-            int b = _denominator;
+            int a = Math.Abs(_numerator);
+            int b = Math.Abs(_denominator);
 
             while (a != b) {
                 if (a > b) a -= b;

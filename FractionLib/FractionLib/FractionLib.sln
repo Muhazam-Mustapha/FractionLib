@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractionLib", "FractionLib\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractionUnitTest", "..\..\FractionUnitTest\FractionUnitTest.csproj", "{55C4AAB4-FADA-4A1B-9B25-3EAE65E80FE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractionDrv", "..\..\FractionDrv\FractionDrv\FractionDrv.csproj", "{CDCC63B3-8EFD-4A8F-B630-8B49227E7C25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{55C4AAB4-FADA-4A1B-9B25-3EAE65E80FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55C4AAB4-FADA-4A1B-9B25-3EAE65E80FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55C4AAB4-FADA-4A1B-9B25-3EAE65E80FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDCC63B3-8EFD-4A8F-B630-8B49227E7C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDCC63B3-8EFD-4A8F-B630-8B49227E7C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDCC63B3-8EFD-4A8F-B630-8B49227E7C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDCC63B3-8EFD-4A8F-B630-8B49227E7C25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
